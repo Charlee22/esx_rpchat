@@ -1,3 +1,6 @@
+ONESYNC INFINITY!
+
+
 ![image](https://user-images.githubusercontent.com/84440704/137537622-4dc61b90-e995-4823-a435-2df85b6c9382.png)
 
 Upravený esx_rpchat + chat
